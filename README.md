@@ -2,6 +2,18 @@
 
 Welcome to the Notes-Website project! This web application allows users to create, manage, and organize their notes efficiently. It uses modern web technologies and integrates Google OAuth for user authentication.
 
+## Screenshots
+
+![2024-07-22 (5)](https://github.com/user-attachments/assets/4b640cb1-e62b-4a7f-8b7e-1a51dc208c63)
+
+![2024-07-22 (6)](https://github.com/user-attachments/assets/e4931a7e-ea74-41ca-857f-16f94163b13a)
+
+![2024-07-22 (7)](https://github.com/user-attachments/assets/7af76d5f-ecca-47a9-b34e-0d4e738caa1b)
+
+![2024-07-22 (8)](https://github.com/user-attachments/assets/3d9d1751-7004-4ceb-9006-7e09ae49d7c8)
+
+![2024-07-22 (9)](https://github.com/user-attachments/assets/cb8afd9e-4362-4363-abb0-e964fccdfe0c)
+
 ## Features:
 
 - **Register/Login**: Users can sign up or log in using their Google account.
