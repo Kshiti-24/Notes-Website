@@ -4,15 +4,27 @@ Welcome to the Notes-Website project! This web application allows users to creat
 
 ## Screenshots
 
+# First Page
+
 ![2024-07-22 (5)](https://github.com/user-attachments/assets/4b640cb1-e62b-4a7f-8b7e-1a51dc208c63)
+
+# Home Page
 
 ![2024-07-22 (6)](https://github.com/user-attachments/assets/e4931a7e-ea74-41ca-857f-16f94163b13a)
 
+# Add Post
+
+![2024-07-22 (9)](https://github.com/user-attachments/assets/cb8afd9e-4362-4363-abb0-e964fccdfe0c)
+
+# Update Post
+
 ![2024-07-22 (7)](https://github.com/user-attachments/assets/7af76d5f-ecca-47a9-b34e-0d4e738caa1b)
+
+# Delete Post
 
 ![2024-07-22 (8)](https://github.com/user-attachments/assets/3d9d1751-7004-4ceb-9006-7e09ae49d7c8)
 
-![2024-07-22 (9)](https://github.com/user-attachments/assets/cb8afd9e-4362-4363-abb0-e964fccdfe0c)
+
 
 ## Features:
 
